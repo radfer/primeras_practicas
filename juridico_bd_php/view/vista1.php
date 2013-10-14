@@ -1,5 +1,4 @@
 <?php 
-	
 	if($bandera_vista1 == 1):
 	require '../../comodin.php';
 

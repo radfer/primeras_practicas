@@ -4,11 +4,11 @@
 		
 	<HTML>
 		<BODY>
-			<H1>Seleccione un cliente para eliminar</H1>
+			<H1>Seleccione un expediente para eliminar</H1>
 			<BR>
 			<BR>
 			<FORM METHOD = 'POST' ACTION = '../controler/control.php'>
-			<SELECT NAME = "clientes"><?php
+			<SELECT NAME = "eliminar_expte"><?php
 			foreach($lista_clientes as $valor):?>
 			<option><?php  echo $valor;?></option>
 			<?php endforeach;?>

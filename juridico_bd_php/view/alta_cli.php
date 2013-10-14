@@ -9,9 +9,6 @@
 				<BR>
 				<BR>
 					<FIELDSET STYLE = "width:35%; border:solid; color:blue; text-align:right">
-						Número de id
-						<INPUT TYPE= "text" NAME = "id_alta"></INPUT>
-						<BR>
 						Nombre
 						<INPUT TYPE = "text" NAME= "nombre_alta"></INPUT>
 						<BR>
@@ -38,7 +35,7 @@
 					<P STYLE = "color:red"><?php echo $mensaje_error; ?></P>
 					<BR>
 					<BR>
-					<A HREF = '../controler/control.php'>Salir</A>
+					<A HREF = '../controler/direccionador.php'>Salir</A>
 			
 			</FORM>
 			

@@ -28,22 +28,20 @@
 				<INPUT TYPE = 'submit' NAME = 'modificar_expte' VALUE = 'Modificar datos de un Expediente'></INPUT>
 				<BR>
 				<BR>
+				<INPUT TYPE = 'submit' NAME = 'baja_expte' VALUE = 'Eliminar expediente'></INPUT>
+				<BR>
+				<BR>
 				<INPUT TYPE = 'submit' NAME = 'alta_prov' VALUE = 'Agregar último movimiento a un expediente'></INPUT>
 				<BR>
 				<BR>
-				<INPUT TYPE = 'submit' NAME = 'baja_prov' VALUE = 'Eliminar último movimiento a un expediente'></INPUT>
-				<BR>
-				<BR>
 				<INPUT TYPE = 'submit' NAME = 'alta_consulta' VALUE = 'Cargar una nueva entrevista'></INPUT>
-				<BR>
-				<BR>
-				<INPUT TYPE = 'submit' NAME = 'modificar_consulta' VALUE = 'Modificar una entrevista'></INPUT>
 				<BR>
 				<BR>
 				<INPUT TYPE = 'submit' NAME = 'modificar_datos' VALUE = 'Modificar datos personales'></INPUT>
 				<BR>
 				<BR>
 			</FORM>
+			<A HREF = '../controler/direccionador.php'>Salir</A>
 		</BODY>
 	
 	</HTML>

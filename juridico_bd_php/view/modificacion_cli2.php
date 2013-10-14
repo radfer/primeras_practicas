@@ -35,7 +35,7 @@
 					<P STYLE = "color:red"><?php echo $mensaje_error; ?></P>
 					<BR>
 					<BR>
-					<A HREF = '../controler/control.php'>Salir</A>
+					<A HREF = '../controler/direccionador.php'>Salir</A>
 			
 			</FORM>
 			

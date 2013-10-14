@@ -1,4 +1,5 @@
 <?php
+	session_start();
 	if($bandera_select == 1)
 	{
 		require 'conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
@@ -14,7 +15,7 @@
 			if((strcasecmp($consulta['mail'], $usuario))==0 && (strcasecmp($consulta['contrasenia'], $contrasenia)) ==0)
 			{
 				$bandera_consulta = 1;//Se carga la bandera con un resultado positivo
-				$id_abogado = $consulta['id_abogado'];
+				$_SESSION['id_abogado'] = $consulta['id_abogado'];//se guarda el id del abogado para el resto de la aplicacion
 			}else
 			{
 				$bandera_consulta = 0;//Se carga la bandera con un resultado negativo

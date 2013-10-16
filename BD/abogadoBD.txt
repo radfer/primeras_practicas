@@ -1,0 +1,32 @@
+0|ARDILES|Silvina|22430373|Tº 97/Fº 957|0280 4431008|ardiles_silvina@yahoo.com.ar|ardiles1
+1|ASIN|Nanci Fabiana E|36901484|Tº 79/Fº 598|0280 4476260|asin_nanci_fabiana_e@yahoo.com.ar|silvina1
+2|BAEZA MORALES|Irma Isidora|05791849|Tº 81/Fº 712|0280 4483395|baeza_morales_irma_isidora@yahoo.com.ar|asin1234
+3|BASTIDA Tomas|Oscar|30246820|Tº 90/Fº 605|0280 4433611|bastida_tomas_oscar@yahoo.com.ar|nancifab
+4|BAUDES|Jorge Alberto|04275902|Tº 107/Fº 727|0280 4480432|baudes_jorge_alberto@yahoo.com.ar|baezamor
+5|BOWMAN|Marcela|21626350|Tº 82/Fº 424|0280 4474900|bowman_marcela@yahoo.com.ar|irmaisid
+6|BUSTAMANTE|Carlos Daniel|08907255|Tº 68/Fº 494|0280 4496358|bustamante_carlos_daniel@yahoo.com.ar|bastidat
+7|BUSTOS|Silvia Alejandra|28620498|Tº 108/Fº 962|0280 4438899|bustos_silvia_alejandra@yahoo.com.ar|oscar123
+8|CALVELO PEREZ|Ana María de los A|07837714|Tº 76/Fº 349|0280 4469317|calvelo_perez_ana_maría de los a@yahoo.com.ar|baudes12
+9|CERRA CASTRO|Esteban Augusto|28387833|Tº 21/Fº 206|0280 4480480|cerra_castro_esteban_augusto@yahoo.com.ar|jorgealb
+10|CHAVES|Miguel Angel|08373295|Tº 116/Fº 917|0280 4452467|chaves_miguel_angel@gmail.com|bowman12
+11|COMINETTI|Romano Paolo|30345307|Tº 61/Fº 709|0280 4425197|cominetti_romano_paolo@gmail.com|marcela1
+12|CONTI|Carlos Alberto|41568400|Tº 98/Fº 128|0280 4480043|conti_carlos_alberto@gmail.com|bustaman
+13|CORDOBA|Carolina Silvia|34954050|Tº 114/Fº 687|0280 4457543|cordoba_carolina_silvia@gmail.com|carlosda
+14|CUENCA|Pablo|05297796|Tº 22/Fº 283|0280 4426902|_Pablo@gmail.com|bustos12
+15|CURTALE|Sebastian Andres|22725716|Tº 46/Fº 523|0280 4486085|curtale_sebastian_andres@gmail.com|silvia12
+16|CURTO|Fernando Andres|15664704|Tº 96/Fº 65|0280 4489012|curto_fernando_andres@gmail.com|calvelop
+17|DAVIES|Malvina Argentina|36953552|Tº 13/Fº 457|0280 4449574|davies_malvina_argentina@gmail.com|anamaria
+18|DI FILIPPO|CARAMES|Veronica Ines|17823276|Tº 39/Fº 404|0280 4432495|di_filippo_carames_veronica ines@gmail.com|cerracas
+19|DI PALMA|MEISEN Estefanía|05102788|Tº 17/Fº 40|0280 4409492|di_palma_meisen_estefania@gmail.com|estebana
+20|ESCUDERO|Magali|14611297|Tº 20/Fº 941|0280 4441372|escudero_magali@gmail.com|chaves12
+21|ESPIRO|Federico Carlos|32979981|Tº 78/Fº 360|0280 4464318|espiro_federico_carlos@gmail.com|miguelan
+22|FERNANDEZ|Claudio Alfredo|15017226|Tº 22/Fº 270|0280 4431432|fernandez_claudio_alfredo@hotmail.com|cominett
+23|FERNANDEZ|Marcela Patricia E.|25708717|Tº 27/Fº 721|0280 4458958|fernandez_marcela_patricia_e.@hotmail.com|romanopa
+24|FERNANDEZ|Myriam Alejandra|13340168|Tº 77/Fº 915|0280 4405652|fernandez_myriam_alejandra@hotmail.com|conti123
+25|GIMENEZ|Ceferino|30805610|Tº 47/Fº 246|0280 4440976|gimenez_ceferino@hotmail.com|carlosal
+26|GONZALEZ AYESA|Juan Carlos|17992689|Tº 86/Fº 278|0280 4483527|gonzalez_ayesa_juan_carlos@hotmail.com|cordoba1
+27|GONZALEZ|Daniel Hugo|13726723|Tº 68/Fº 941|0280 4454591|gonzalez_daniel_hugo@hotmail.com|carolina
+28|GONZALEZ|Humberto|13860268|Tº 47/Fº 4|0280 4444871|gonzalez_humberto@hotmail.com|cuenca12
+29|GONZALEZ|Liliana Beatriz|21945316|Tº 112/Fº 467|0280 4464853|gonzalez_liliana_beatriz@hotmail.com|pablo123
+30|GONZALEZ|Prospero|10556557|Tº 106/Fº 537|0280 4498704|gonzalez_prospero@hotmail.com|curtale1
+31|GONZALEZ RODRIGUEZ|Laura|09427993|Tº 64/Fº 550|0280 4475183|gonzalez_rodriguez_laura@hotmail.com|sebastia

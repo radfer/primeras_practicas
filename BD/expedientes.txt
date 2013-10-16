@@ -1,0 +1,9 @@
+1|AUTOSUR S.A. c/ BARCELO GARCIA, Elisa s/ Ejecucion Prendaria|342|2013|Juzgado de Ejecucion Nro 1|d|FERNANDEZ, Juan Pablo|AUTOSUR S.A|Av. Hipolito Yrigoyen 1403|Av. Hipolito Yrigoyen 1403|
+2|GALLARDO PINTO, Francisco Josá? c/ GIMENEZ, Graciela s/ Divorcio Vincular|455|2013|Familia N¢³1|A|PASO, Juan Andrá?s|GIMENEZ, Graciela|Av. Yrigoyen  N¢³ 344 5to A|Moreno N¢³ 788|Trelew
+3| VON BROCKE, Evelyn c/DOMAN, Fabian s/ ALIMENTOS|1290|2013|Familia N¢³12|D|D' Allesandro, Carlos| VON BROCKE, Evelyn |Av. Callao 455 3ro A|Av. Santa Fe 4678 1ro C|CABA
+4|HUERTA, Alberto c/ HUERTA, Gladys s/ USUCAPION|98|2012|Juzgado Civil y Comercial Nro 2|A|PAEZ, Mará?a Cristina|HUERTA, Gladys|Galina 234|Chacra 206 A Gaiman|Trelew
+5|PEREZ, Sandra c/ ISAC MARUGON, Antonia s/ EJECUCION HIPOTECARIA|1123|2012|Juzgado de Ejecuciá?n Nro 2|D|PASO, Juan Andrá?s|PEREZ, Sandra|Av. Yrigoyen  N¢³ 344 5to A|Urquiza 89|Trelew
+6|FERRERO, Manuel s/ SUCESION|2|2013|Familia N¢³12|A|D|PEREZ, Sandra|Av. Callao 455 3ro A|Moreno N¢³ 788|Trelew
+7|PEREZ, Raáúl c/ GIMENEZ, Graciela s/ Divorcio Vincular|455|2013|Familia N¢³1|A|PASO, Juan Andrá?s|GIMENEZ, Graciela|Av. Yrigoyen  N¢³ 344 5to A|Moreno N¢³ 788|Trelew
+8| PINTO, Francisco Carlos c/ GIMENEZ, Graciela s/ Divorcio Vincular|10|2012|Familia N¢³2|d|Sosa, Juan Andres|Fernandez, Graciela|Moreno 345|Av. Hipolito Yrigoyen 1403|Trelew
+9|Elascar, Carlos c/ Lanata, Jorge s/ DAá?OS Y PERJUICIOS|23|2013|Civil y Comercial Nro 2|D|PEREZ GALIMBERTI, Gabriel|Elascar, Carlos|Colombia 513|Barrio Los Olmos|Trelew

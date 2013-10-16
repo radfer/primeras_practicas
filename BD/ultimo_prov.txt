@@ -1,0 +1,10 @@
+3|1|El lunes presentamos las copias certificadas de los titulos de propiedad.
+4|10|Salio la sentencia definitiva 
+5|9|Sentencia definitiva
+6|17|Sentencia definitiva
+7|6|le remataron todo
+8|1|Se dio lugar a la medida cautelar, ordenaron los correspondiente embargos
+9|20|Se fijo audiencia para el dia 20
+10|20|Primer prov. del inicidente por incumplimiento del regimen de comunicacion.
+11|10|La contraparte apelo la sentencia definitiva
+12|10|El juez ordeno que las partes vayan a mediacion

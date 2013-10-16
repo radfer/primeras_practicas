@@ -5,8 +5,17 @@
 
 ?>
 	<HTML>
-		<BODY>
-			<H1 STYLE = "color:violet">Bienvenido <?php echo $usuario;?></H1>
+		<HEAD>
+		<TITLE>Home |Estudio Jurídico</TITLE>
+		<LINK REL="Stylesheet" HREF="style.css">
+		<SCRIPT LANGUAGE="JavaScript" src="jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.min.js"></SCRIPT>
+		<meta charset="utf-8">
+	</HEAD>
+	
+		<BODY class = 'principal'>
+			<H1 STYLE = "color:violet">Bienvenido <?php echo $_SESSION['usuario'];?></H1>
 			<BR>
 			<BR>
 			<FORM METHOD = 'GET' ACTION = '../controler/control.php'>

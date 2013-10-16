@@ -13,9 +13,8 @@
 			{
 				case 'usuario'://Se está ingresando por la página de inicio
 					$usuario = $_POST['usuario'];//Se carga el usario ingresado
-					$usuario = 'ardiles_silvina@yahoo.com.ar';//SACAR ESTO
+					$_SESSION['usuario']= $usuario;
 					$contrasenia= $_POST['contrasenia'];//se carga la contraseña ingresada
-					$contrasenia = 'ardiles1';//SACAR ESTO
 					if(!empty($usuario) && !empty($contrasenia))//Se verifica que se hayan ingresado valores efectivamente
 					{
 						$bandera_select=1;//bandera para entrar a la página
@@ -303,8 +302,23 @@
 					}
 					$bandera_modificacion_abogado = 1;//Bandera para entrar a la vista
 					include '../view/modificacion_abogado.php';
-				
 				break;
+				case 'juzgado':
+					$valor = $_POST['juzgado'];
+					$id_juzgado = explode(' ', $valor);
+					include '../model/determinarJuzgado.php';
+					if($bandera_juzgado ==1)
+					{
+						$hola = $val1;
+					}else
+					{
+						$hola = ' ';
+					}
+					
+					include'../view/circunscripcion.php';
+
+					
+				break; 
 				
 				default:				
 			}
@@ -365,8 +379,32 @@
 					include '../model/elegirClienteExpteMod.php';
 					$bandera_modificacion_abogado = 1;//Bandera para entrar a la vista
 					include '../view/modificacion_abogado.php';
-				
 				break;
+				case 'msg':
+					$valor = $_GET['msg'];
+					switch($valor)
+					{
+						case 'circunscripcion':
+							include '../view/circunscripcion.php';
+						break;
+						case 'vista1':
+							header ('Location: ../view/vista1.php');
+						break;
+						case 'QuienesSomos':
+							include '../view/quienesSomos.php';
+						break;
+						case 'AbogadosAsoc':
+							include '../view/abogadosAsoc.php';
+						break;
+						case 'menu1':
+							$bandera_menu =1;
+							include '../view/menu.php';
+						break;
+						
+					}
+						
+				break;
+				
 				default:
 					$bandera_vista1 = 1;
 					include '../view/vista1.php';

@@ -3,7 +3,16 @@
 	require '../comodin.php'; ?>
 	
 	<HTML>
-		<BODY>
+		<HTML>
+		<HEAD>
+		<TITLE>Home |Estudio Jurídico</TITLE>
+		<LINK REL="Stylesheet" HREF="style.css">
+		<SCRIPT LANGUAGE="JavaScript" src="jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.min.js"></SCRIPT>
+		<meta charset="utf-8">
+	</HEAD>
+		<BODY class = 'principal'>
 				<H1 STYLE="color: black">Modifique sus datos personales</H1>
 				<BR>
 				<BR>
@@ -45,7 +54,8 @@
 					<P STYLE = "color:red"><?php echo $mensaje_error; ?></P>
 					<BR>
 					<BR>
-					<A HREF = '../controler/direccionador.php'>Salir</A>
+					<A <a href="../controler/control.php?msg=menu1">Menú</A>
+					<A HREF = '../controler/direccionador.php'>Logout</A>
 			
 			</FORM>
 			

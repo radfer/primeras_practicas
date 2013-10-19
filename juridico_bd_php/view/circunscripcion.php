@@ -4,8 +4,8 @@
 	
 	<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
-		<LINK REL="Stylesheet" HREF="style.css">
-		<SCRIPT LANGUAGE="JavaScript" SRC="jquery-2.0.1.js"></SCRIPT>
+		<LINK REL="Stylesheet" HREF="style/style.css">
+		<SCRIPT LANGUAGE="JavaScript" SRC="style/jquery-2.0.1.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 		<BODY CLASS = 'principal'>
@@ -23,7 +23,7 @@
 		</DIV>
 			
 		</DIV>
-	<DIV CLASS = 'article'>
+	<DIV CLASS = 'article2'>
 		<FORM METHOD = 'POST' ACTION = '../controler/control.php'>
 			<SELECT NAME = "juzgado"><?php
 			include '../model/elegirJuzgado.php';
@@ -36,8 +36,11 @@
 			<INPUT TYPE = 'submit' NAME = 'circunscripcion' VALUE = 'Enviar'></INPUT>
 		</FORM>
 		
-		<P CLASS = 'main'></P><?php echo $hola; ?></P>
-	
+		<P CLASS = 'main'></P>Juzgado: <?php printf("%s", $hola); ?></P>
+		<P CLASS = 'main'></P>Juez: <?php printf("%s", $hola2); ?></P>
+		<P CLASS = 'main'></P>Secretaria: <?php printf("%s", $hola3); ?></P>
+		<P CLASS = 'main'></P>Dirección: <?php printf("%s", $hola4); ?></P>
+		<P CLASS = 'main'></P>Ciudad: <?php printf("%s", $hola5); ?></P>
 </DIV>
 		
 </DIV>

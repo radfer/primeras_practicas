@@ -6,7 +6,10 @@
 	<HTML>
 		<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
-		<LINK REL="Stylesheet" HREF="style.css">
+		<LINK REL="Stylesheet" HREF="style/style.css">
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.min.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 		<BODY CLASS = 'principal'>
@@ -37,8 +40,6 @@
 				</FORM>
 				<P STYLE = "color:red"><?php echo $mensaje_error; ?></P>
 			</DIV>
-			
-			
 		</BODY>
 	</HTML>
 	<?php else: header('Location: ../controler/control.php');endif; ?>

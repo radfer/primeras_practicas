@@ -7,8 +7,8 @@
 <HTML>
 		<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
-		<LINK REL="Stylesheet" HREF="style.css">
-		<SCRIPT LANGUAGE="JavaScript" SRC="jquery-2.0.1.js"></SCRIPT>
+		<LINK REL="Stylesheet" HREF="style/style.css">
+		<SCRIPT LANGUAGE="JavaScript" SRC="style/jquery-2.0.1.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 	
@@ -36,12 +36,12 @@
 			correspondiente antes de reclamar por esta via, a fin de determinar la viabilidad del mismo
 			<P CLASS = 'main'>Derecho Laboral:</P>
 			Ingenieros ambientales, asesoramiento empresarial para darle la mejor solucion. 
-			<P class = 'main'>Derecho Societario y Comercial :</P>
+			<P CLASS = 'main'>Derecho Societario y Comercial :</P>
 			Dedicado a pequeñas y grandes empresas, asesoradas por abogados preparados y especializados en la materia.
-			<P class = 'main'>Derecho de Familia y Sucesiones :</P>
+			<P CLASS = 'main'>Derecho de Familia y Sucesiones :</P>
 			Para atender todas las situaciones que nacen en el seno de la familia: divorcios, 
 			alimentos, tenencia, sucesiones, etc.
-			<P class = 'main'>Derecho Previsional:</P>
+			<P CLASS = 'main'>Derecho Previsional:</P>
 			Atendiendo inicio de beneficios en Anses y AFJP, Reajustes en juicio, Reclamos, amparos y 
 			especial asesoramiento en Rentas Vitalicias por profesionales formados dentro de las Administradoras de fondos y 
 			jubilaciones y pension

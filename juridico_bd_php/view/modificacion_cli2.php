@@ -6,10 +6,10 @@
 		<HTML>
 		<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
-		<LINK REL="Stylesheet" HREF="style.css">
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-2.0.1.js"></SCRIPT>
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.js"></SCRIPT>
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.min.js"></SCRIPT>
+		<LINK REL="Stylesheet" HREF="style/style.css">
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.min.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 		<BODY class = 'principal'>
@@ -17,7 +17,7 @@
 				<H1 STYLE="color: black">Modifique los datos del cliente</H1>
 				<BR>
 				<BR>
-					<FIELDSET STYLE = "width:40%; border:solid; color:blue; text-align:right">
+					<FIELDSET STYLE = "width:45%; border:solid; color:blue; text-align:right">
 						Nombre
 						<INPUT TYPE = "text" VALUE = '<?php echo $cliente['nombre']; ?>' NAME= "nombre_mod"></INPUT>
 						<BR>

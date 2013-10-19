@@ -15,8 +15,8 @@
 				$delete = $objeto->delete($nombre[0], $tabla, $id_columna);
 			break;
 			case '2'://opción para eliminar un expediente
-				$tabla = 'expediente';
-				$id_columna = 'id_expediente';
+				$tabla = 'expediente_cliente_abogado';
+				$id_columna = 'expediente';
 				$delete = $objeto->delete($nombre[0], $tabla, $id_columna);
 			break;
 		}

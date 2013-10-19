@@ -1,10 +1,10 @@
 <HTML>
 		<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
-		<LINK REL="Stylesheet" HREF="style.css">
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-2.0.1.js"></SCRIPT>
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.js"></SCRIPT>
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.min.js"></SCRIPT>
+		<LINK REL="Stylesheet" HREF="style/style.css">
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.min.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 	
@@ -21,32 +21,29 @@
 			</UL>
 		</DIV>
 		
-				<DIV class = 'article2' ID="acordeon">
-					<H3>DRA MARIA EUGENIA FRANCO</H3>
-						<UL class = 'lista_menu'>
-							<LI>Especialista en Derecho Civil y Comercial. (Postgrado Univ de Salamanca)</LI>
-						</UL>
-					<H3>DRA ROSA OLLER</H3>
-						<UL class = 'lista_menu'>
-							<LI>Especialista en Derecho Comercial y Societario</LI>
-						</UL>
-					<H3>DRA GUADALUPE DEL PILAR GUERRERO</H3>
-						<UL class = 'lista_menu'>
-							<LI>Especialista en Derecho de Familia (Postgrado UCA)</LI>
-							
-						</UL>
-					<H3>ANDREA PEREYRA</H3>
-						<UL class = 'lista_menu'>
-							<LI>Especialista en Rentas Vitalicias/AFJP</LI>
-						</UL>
-				</DIV>
+		<DIV class = 'article2' ID="acordeon">
+				<H3>DRA MARIA EUGENIA FRANCO</H3>
+					<UL class = 'lista_menu'>
+						<LI>Especialista en Derecho Civil y Comercial. (Postgrado Univ de Salamanca)</LI>
+					</UL>
+				<H3>DRA ROSA OLLER</H3>
+					<UL class = 'lista_menu'>
+						<LI>Especialista en Derecho Comercial y Societario</LI>
+					</UL>
+				<H3>DRA GUADALUPE DEL PILAR GUERRERO</H3>		
+					<UL class = 'lista_menu'>
+						<LI>Especialista en Derecho de Familia (Postgrado UCA)</LI>		
+					</UL>
+				<H3>ANDREA PEREYRA</H3>
+					<UL class = 'lista_menu'>
+						<LI>Especialista en Rentas Vitalicias/AFJP</LI>
+					</UL>
+		</DIV>
 				
 				<SCRIPT>
-			$(function() {
-				$( "#acordeon" ).accordion();
-			});
-		</SCRIPT>
-			
-	
+					$(function() {
+					$( "#acordeon" ).accordion();
+					});
+				</SCRIPT>
 	</BODY>
 </HTML>

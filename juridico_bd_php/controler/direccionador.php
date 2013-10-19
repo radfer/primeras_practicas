@@ -4,6 +4,6 @@
 	session_destroy();
 	$conexion = NULL;
 	
-	echo 'Se salio de la sesion';
+	include 'control.php';
 
 ?>

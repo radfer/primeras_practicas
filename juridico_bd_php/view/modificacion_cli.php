@@ -6,10 +6,10 @@
 		<HTML>
 		<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
-		<LINK REL="Stylesheet" HREF="style.css">
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-2.0.1.js"></SCRIPT>
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.js"></SCRIPT>
-		<SCRIPT LANGUAGE="JavaScript" src="jquery-ui-1.10.3.custom.min.js"></SCRIPT>
+		<LINK REL="Stylesheet" HREF="style/style.css">
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" src="style/jquery-ui-1.10.3.custom.min.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 		<BODY class = 'principal'>
@@ -26,6 +26,8 @@
 			</FORM>
 			<BR>
 			<P STYLE = "color:red"><?php echo $mensaje_error2; ?></P>
+			<A <a href="../controler/control.php?msg=menu1">Menú</A>
+			<A HREF = '../controler/direccionador.php'>Logout</A>
 		</BODY>
 	</HTML>
 

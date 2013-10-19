@@ -1,0 +1,150 @@
+body.principal{
+	
+	clear: both;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	background-image: url(justicia.PNG); 
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;/*adapta imagen a pantalla completa para safari y google chrome
+	 -moz-background-size: cover;/*adapta una imagen a pantalla completa en el navegador firefox*/
+    -o-background-size: cover;/*adapta una imagen a patalla completa en el navegador opera*/
+	background-attachment: fixed;
+}
+
+  
+#main-menu ul {
+margin: 0px;
+padding: 0px;
+font-size: 25px;
+position: absolute;
+	top: 160px;
+	left: 10px;
+	line-height: 100px;
+}
+ 
+#main-menu li {
+list-style-type: none;
+margin: 0 5px 0 5px;
+}
+ 
+#main-menu li a {
+color: dark brown;
+text-decoration: none;
+}
+ 
+#main-menu li a.active, #main-menu a:hover {
+/*text-decoration: underline;*/
+/*color: #D9CD60;*/
+}
+  
+
+.lista_menu
+{
+	list-style-type:none; /*con esto quitamos las viñetas*/
+	line-height: 60px;
+}
+
+
+h1.membrete
+{
+	font-family: 'garamond';
+	font-size: 40px;
+	font-weight: bold;
+	float: center;
+	text-align: center;
+	line-height: 50px;
+	vertical-align: middle;
+	position: absolute;
+	top: 20px;
+}
+
+
+li.itemMenu:hover{
+	
+	background: -webkit-linear-gradient(top, #064706, grey);
+	float: left;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+	padding: 12px 12px;
+	text-decoration: none;
+	list-style: none;
+	list-style-type:none; 
+}
+
+a{
+	color:black;
+}
+a:link{
+	text-decoration: none;
+	color:black;
+}
+
+a:hover{
+	color:blue;
+}
+
+
+
+.article
+{
+	width:80%;
+	height:93%;
+	padding:0px;
+	border:0px solid transparent;
+	margin:0px;
+	position:relative;
+	top: 100px;
+	left: 230px;
+	text-align:;
+	font-style:italic; 
+	font-size: 17px;
+	background:cc6600;
+	text-indent: 20px;
+}
+.article2
+{
+	width:52%;
+	padding:0px;
+	border:0px solid transparent;
+	margin:0px;
+	position:relative;
+	top: 150px;
+	left: 250px;
+	text-align:left;
+	font-style:arial;
+	font-size: 100%;
+	list-style-type:none; 
+	background: CC6600;
+}
+p.main
+{
+/*text-align:justify;
+/*line-height:200%;*/
+text-indent:50px;
+font-weight: 900;
+}
+
+
+div.logeo
+{
+	float:right;
+	position:relative;
+	left:20px;
+	top:250px;
+	background: CC6600;
+	}
+	
+fieldset.logueo
+{
+	text-align: right;
+}
+
+
+#botonSalir
+{
+	position:absolute;
+	left:950px;
+	top:150px;
+	
+}

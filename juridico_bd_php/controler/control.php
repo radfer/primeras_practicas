@@ -303,16 +303,24 @@
 					$bandera_modificacion_abogado = 1;//Bandera para entrar a la vista
 					include '../view/modificacion_abogado.php';
 				break;
-				case 'juzgado':
-					$valor = $_POST['juzgado'];
+				case 'juzgado'://Esta consulta va a extraer la información de un archivo json
+					$valor = $_POST['juzgado'];//Viene el Juz. del que el usuario quiere obtener información
 					$id_juzgado = explode(' ', $valor);
 					include '../model/determinarJuzgado.php';
 					if($bandera_juzgado ==1)
 					{
 						$hola = $val1;
+						$hola2 = $val2;
+						$hola3 = $val3;
+						$hola4 = $val4;
+						$hola5 = $val5;
 					}else
 					{
 						$hola = ' ';
+						$hola2 = ' ';
+						$hola3 = ' ';
+						$hola4 = ' ';
+						$hola5 = ' ';
 					}
 					
 					include'../view/circunscripcion.php';
@@ -400,7 +408,6 @@
 							$bandera_menu =1;
 							include '../view/menu.php';
 						break;
-						
 					}
 						
 				break;

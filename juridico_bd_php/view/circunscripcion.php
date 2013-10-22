@@ -5,7 +5,7 @@
 	<HEAD>
 		<TITLE>Home |Estudio Jurídico</TITLE>
 		<LINK REL="Stylesheet" HREF="../view/style/style.css">
-		<SCRIPT LANGUAGE="JavaScript" SRC="style/jquery-2.0.1.js"></SCRIPT>
+		<SCRIPT LANGUAGE="JavaScript" SRC="../view/style/jquery-2.0.1.js"></SCRIPT>
 		<meta charset="utf-8">
 	</HEAD>
 		<BODY CLASS = 'principal'>

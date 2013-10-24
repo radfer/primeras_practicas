@@ -2,8 +2,8 @@
 	
 	if($bandera_eliminarCliente ==1 || $bandera_eliminarCliente ==2)
 	{
-		require 'conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
-		require 'Consulta.php';
+		require dirname(__FILE__).'/conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
+		require dirname(__FILE__).'/Consulta.php';
 		$conexion = new Conexion();
 		$objeto = new Consulta($conexion);
 		

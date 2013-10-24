@@ -1,6 +1,6 @@
 <?php
 	if($bandera_baja_cli == 1):
-		require '../comodin.php'; ?>
+		require dirname(__FILE__).'/../comodin.php'; ?>
 		
 	<HTML>
 		<HTML>

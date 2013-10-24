@@ -1,8 +1,8 @@
 <?php
 	if($bandera_insertBD == 1)
 	{
-		require 'conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
-		require 'Consulta.php';
+		require dirname(__FILE__).'/conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
+		require dirname(__FILE__).'/Consulta.php';
 	
 		$bandera_insert = 0;//Se inicializa la bandera
 		$conexion = new Conexion();

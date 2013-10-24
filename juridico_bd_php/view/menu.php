@@ -1,7 +1,7 @@
 <?php 
 	if($bandera_menu == 1):
 
-	require '../../comodin.php';
+	require dirname(__FILE__).'/../../comodin.php';
 
 ?>
 	<HTML>

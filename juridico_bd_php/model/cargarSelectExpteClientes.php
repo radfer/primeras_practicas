@@ -4,8 +4,8 @@
 	{	
 		if($incluir !=1)//Verifica si se debe realizar una conexión o no
 		{
-			require 'conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
-			require 'Consulta.php';
+			require dirname(__FILE__).'/conexion/ObjetoConexion.php';//Se incluye el archivo que realiza la conexión a la BD
+			require dirname(__FILE__).'/Consulta.php';
 		}
 		$conexion = new Conexion();
 	

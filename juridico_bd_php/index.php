@@ -1,3 +1,3 @@
 <?php 
-	header('Location: ../view/vista1.php');
+	header('Location: controler/control.php');
 ?>
